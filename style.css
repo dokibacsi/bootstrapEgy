@@ -1,0 +1,12 @@
+main, header, nav, aside, article, footer{
+    border: 1px solid black;
+
+}
+
+.row{
+    margin: auto;
+}
+
+body{
+    background: url(hatter.jpg);
+}
